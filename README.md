@@ -9,6 +9,20 @@
 
 另外说句笑话：凭借 WSL，Windows 已经成为最好的 Linux 发行版🤣。
 
+## 系列文章
+[01. Windows上安装WSL](doc/01.%20Windows上安装WSL.md)
+[02. WSL自定义安装路径](doc/02.%20WSL自定义安装路径.md)
+[03. WSL开发网络模式选择](doc/03.%20WSL开发网络模式选择.md)
+[04. Ubuntu更换国内源](doc/04.%20Ubuntu更换国内源.md)
+[05. 手把手教你安装配置 zsh 和 oh my zsh](doc/05.%20手把手教你安装配置%20zsh%20和%20oh%20my%20zsh.md)
+[06. Git、GitHub配置以及常用的Git命令](doc/06.%20Git、GitHub配置以及常用的Git命令.md)
+[07. Ubuntu的包管理工具apt使用说明](doc/07.%20Ubuntu的包管理工具apt使用说明.md)
+[08. Ubuntu软件版本管理](doc/08.%20Ubuntu软件版本管理.md)
+[09. java依赖环境安装](doc/09.%20java依赖环境安装.md)
+[10. node 多版本管理工具](doc/10.%20node%20多版本管理工具.md)
+[11. 手把手Docker安装与配置](doc/11.%20手把手Docker安装与配置.md)
+[12. Docker日志太多撑爆硬盘？一次搞定日志轮转与清理](doc/12.%20Docker日志太多撑爆硬盘？一次搞定日志轮转与清理.md)
+
 ## 最后
 如果本项目对你有所帮助留个Star再走吖
 
